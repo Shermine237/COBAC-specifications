@@ -1,0 +1,44 @@
+Liste des fichiers de reporting dans le document "Volume III SESAME sur base sociale" :
+
+FM1000 : Balance comptable
+FM1101 : Ventilation des crédits et des dépôts de la clientèle résidente
+FM1103 : Ventilation des autres capitaux permanents
+FM1104 : Ventilation des opérations avec les correspondants (actif et hors bilan)
+FM1106 : État des créances en souffrance
+FM1107 : Ventilation selon la durée initiale des opérations à terme avec les correspondants
+FM1108 : Ventilation des créances couvertes par une hypothèque ferme de premier ou de deuxième rang sur des immeubles
+FM1109 : Ventilation des crédits à la clientèle par branches d’activité
+FM1110 : Ventilation des crédits à la clientèle par zone géographique
+FM1111 : Déclaration des avoirs et engagements des groupes de personnes considérées comme un même bénéficiaire
+FM1117 : Déclaration des participations dans le capital d’entreprises
+FM1201 : État des engagements de bilan et de hors bilan en faveur de la clientèle
+FM1202 : Informations sur les engagements restructurés
+FM1203 : Informations sur la base clientèle
+FM1301 : Informations sur les dépôts de la clientèle
+FM1401 : Informations sur les titres détenus par les établissements de microfinance
+FM1411 : Informations sur les transferts émis et reçus par l’établissement
+FM1421 : Statistiques générales sur la monnaie électronique et la monétique
+FM1423 : Statistiques d’acceptation de monnaie électronique
+FM1512 : Division des risques
+FM1513 : Déclaration des crédits en faveur des actionnaires, des administrateurs, des dirigeants et du personnel
+FM1611 : Organisation du contrôle interne
+FM1612 : Composition du Comité d’Audit
+FM1613 : Composition du Comité des risques
+FM1614 : Appréciation de la mise en œuvre du contrôle interne
+FM1621 : Organisation du dispositif de prévention du blanchiment des capitaux et du financement du terrorisme
+FM1622 : Informations sur les déclarations ANIF et formation du personnel
+FM1625 : Prévention du blanchiment des capitaux
+FM1631 : Coordonnées de l’établissement
+FM1632 : Coordonnées bancaires
+FM1633 : Coordonnées des guichets permanents
+FM1634 : Informations sur l’évolution du capital sur les cinq dernières années
+FM1635 : Informations sur les dirigeants responsables
+FM1636 : Composition du conseil d’administration
+FM1637 : Informations sur l’actionnariat
+FM1638 : Effectifs du personnel
+FM1639 : Informations sur la clientèle
+FM1640 : Affectation des résultats
+FM1641 : Informations sur les commissaires aux comptes
+FM1642 : Déclaration des conditions de banque
+FM1651 : Évolution des provisions pour dépréciation de bilan
+FM1652 : Évolution des provisions en couverture des engagements de hors bilan
